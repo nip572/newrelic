@@ -1,4 +1,4 @@
-# newrelic# JMX Monitor for New Relic Infrastructure
+# JMX Monitor for New Relic Infrastructure
 
 ## Summary
 
@@ -84,10 +84,3 @@ Edit the following block of XML at the end of the logback.xml to change the log 
 
 ## Metrics and Dashboarding
 All metrics collected by this plugin are reported Insights. 
-
-
-
-
-
-
-
